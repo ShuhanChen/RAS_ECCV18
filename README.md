@@ -1,5 +1,4 @@
-# RASNet
-Reverse Attention for Salient Object Detection
+# RASNet: Reverse Attention for Salient Object Detection
 ===
 ECCV 2018
 ---
