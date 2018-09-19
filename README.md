@@ -6,10 +6,10 @@ This code is for the paper "Reverse Attention for Salient Object Detection".[pdf
 Citation
 ---
 @inproceedings{chen2018eccv, <br>
->author={Chen, Shuhan and Tan, Xiuli and Wang, Ben and Hu, Xuelong}, <br>
->booktitle={European Conference on Computer Vision}, <br>
->title={Reverse Attention for Salient Object Detection}, <br>
->year={2018}<br>
+  author={Chen, Shuhan and Tan, Xiuli and Wang, Ben and Hu, Xuelong}, <br>
+  booktitle={European Conference on Computer Vision}, <br>
+  title={Reverse Attention for Salient Object Detection}, <br>
+  year={2018}<br>
 } 
 
 Installing
