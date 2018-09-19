@@ -45,7 +45,8 @@ We use the [code](https://github.com/MingMingCheng/CmCode/tree/master/CmLib/Illu
 
 Pre-trained RAS model 
 ---
-Pre-trained RAS model on [MSRA-B](https://people.cs.umass.edu/~hzjiang/drfi/index.html): [Baidu drive](https://pan.baidu.com/s/1aM2VYUioCpsReOQ-42POoA)(h7qj) and [Google drive](https://drive.google.com/open?id=1vDHzr0O7qcQcx0qkzz0iSe5qTPn8h6J0).
+Pre-trained RAS model on [MSRA-B](https://people.cs.umass.edu/~hzjiang/drfi/index.html): [Baidu drive](https://pan.baidu.com/s/1aM2VYUioCpsReOQ-42POoA)(h7qj) and [Google drive](https://drive.google.com/open?id=1vDHzr0O7qcQcx0qkzz0iSe5qTPn8h6J0).<br>
+Note that this released model is newly trained and is slightly different from the one reported in our paper.
 
 Reference
 ---
