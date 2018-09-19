@@ -19,7 +19,7 @@ The saliency maps on 7 datasets are available at [Baidu drive](https://pan.baidu
 Installing
 ---
 1. Install prerequisites for Caffe (http://caffe.berkeleyvision.org/installation.html#prequequisites).<br>
-2. Build DSS (https://github.com/Andrew-Qibin/caffe_dss). Supposing the root directory of DSS is ``$DSS``.<br>
+2. Build [DSS](https://github.com/Andrew-Qibin/caffe_dss) [1]. Supposing the root directory of DSS is ``$DSS``.<br>
 3. Copy the folder RAS to ``$DSS/example/``.<br>
 
 Training
@@ -29,9 +29,25 @@ Training
 3. Change the dataset path in ``$DSS/example/RAS/train.prototxt``.<br>
 4. Run ``solve.py`` in shell (or you could use IDE like Eclipse).<br>
 
-```cd $DSS/example/RAS/
+```
+cd $DSS/example/RAS/
 python solver.py
 ```
 
 Testing
 ---
+1. Change the dataset path in ``$DSS/example/RAS-tutorial_save.py``.<br>
+2. Run ``jupyter notebook RAS-tutorial_save.ipynb``.<br>
+
+Evaluation
+---
+We use the [code](https://github.com/MingMingCheng/CmCode/tree/master/CmLib/Illustration) of [1] for evaluation.
+
+Pre-trained RAS model on [MSRA-B](https://people.cs.umass.edu/~hzjiang/drfi/index.html)
+---
+Pre-trained RAS model: [Baidu drive] and [Google drive].
+
+Reference
+---
+[1] Hou, Q., Cheng, M.M., Hu, X., Borji, A., Tu, Z., Torr, P.: Deeply supervised
+salient object detection with short connections. In: CVPR. (2017) 5300–5309.
