@@ -6,10 +6,10 @@ This code is for the paper "Reverse Attention for Salient Object Detection".[pdf
 Citation
 ---
 @inproceedings{chen2018eccv, <br>
-author={Chen, Shuhan and Tan, Xiuli and Wang, Ben and Hu, Xuelong}, <br>
-booktitle={European Conference on Computer Vision}, <br>
-title={Reverse Attention for Salient Object Detection}, <br>
-year={2018}<br>
+>author={Chen, Shuhan and Tan, Xiuli and Wang, Ben and Hu, Xuelong}, <br>
+>booktitle={European Conference on Computer Vision}, <br>
+>title={Reverse Attention for Salient Object Detection}, <br>
+>year={2018}<br>
 } 
 
 Installing
@@ -20,7 +20,7 @@ Installing
 
 Training
 ---
-1. Download training dataset and put it to ``$DSS/data/``.<br>
+1. Prepare training dataset and its corresponding data list.<br>
 2. Download the Pre-trained VGG model ([VGG-16](http://vcl.ucsd.edu/hed/5stage-vgg.caffemodel)) and copy it to ``$DSS/example/ras``.<br>
 3. Change the dataset path in ``$DSS/example/RAS/train.prototxt``.<br>
 4. Run ``solve.py`` in shell (or you could use IDE like Eclipse).<br>
