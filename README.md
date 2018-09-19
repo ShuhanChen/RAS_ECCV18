@@ -19,7 +19,7 @@ The saliency maps on 7 datasets are available at [Baidu drive](https://pan.baidu
 Installing
 ---
 1. Install prerequisites for Caffe (http://caffe.berkeleyvision.org/installation.html#prequequisites).<br>
-2. Build DSS (https://github.com/Andrew-Qibin/caffe_dss). Supposing the root directory of DSS is $DSS.<br>
+2. Build DSS (https://github.com/Andrew-Qibin/caffe_dss). Supposing the root directory of DSS is ```DSS.<br>
 3. Copy the folder RAS to $DSS/example/.<br>
 
 Training
