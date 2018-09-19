@@ -43,9 +43,9 @@ Evaluation
 ---
 We use the [code](https://github.com/MingMingCheng/CmCode/tree/master/CmLib/Illustration) of [1] for evaluation.
 
-Pre-trained RAS model on [MSRA-B](https://people.cs.umass.edu/~hzjiang/drfi/index.html)
+Pre-trained RAS model 
 ---
-Pre-trained RAS model: [Baidu drive] and [Google drive].
+Pre-trained RAS model on [MSRA-B](https://people.cs.umass.edu/~hzjiang/drfi/index.html): [Baidu drive] and [Google drive](https://drive.google.com/open?id=1vDHzr0O7qcQcx0qkzz0iSe5qTPn8h6J0).
 
 Reference
 ---
