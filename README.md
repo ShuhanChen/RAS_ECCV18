@@ -12,10 +12,6 @@ title={Reverse Attention for Salient Object Detection}, <br>
 year={2018}<br>
 } 
 
-Saliency Map
----
-The saliency maps on 7 datasets are available at [Baidu drive](https://pan.baidu.com/s/1fG-LO48CwZOeFIqH2Xvc2Q)(zin5) and [Google drive](https://drive.google.com/open?id=1OTgOYlZoTOFOIHwxEDBYkZbAS7L3UKcP).
-
 Installing
 ---
 1. Install prerequisites for Caffe (http://caffe.berkeleyvision.org/installation.html#prequequisites).<br>
@@ -47,6 +43,10 @@ Pre-trained RAS model
 ---
 Pre-trained RAS model on [MSRA-B](https://people.cs.umass.edu/~hzjiang/drfi/index.html): [Baidu drive](https://pan.baidu.com/s/1aM2VYUioCpsReOQ-42POoA)(h7qj) and [Google drive](https://drive.google.com/open?id=1vDHzr0O7qcQcx0qkzz0iSe5qTPn8h6J0).<br>
 Note that this released model is newly trained and is slightly different from the one reported in our paper.
+
+Saliency Map
+---
+The saliency maps on 7 datasets are available at [Baidu drive](https://pan.baidu.com/s/1fG-LO48CwZOeFIqH2Xvc2Q)(zin5) and [Google drive](https://drive.google.com/open?id=1OTgOYlZoTOFOIHwxEDBYkZbAS7L3UKcP).
 
 Reference
 ---
