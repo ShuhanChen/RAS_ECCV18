@@ -29,7 +29,7 @@ Training
 
 ```
 cd $DSS/example/RAS/
-python solver.py
+python solve.py
 ```
 
 Testing
