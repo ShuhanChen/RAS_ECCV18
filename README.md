@@ -17,7 +17,7 @@ Citation
 Installing
 ---
 1. Install prerequisites for Caffe (http://caffe.berkeleyvision.org/installation.html#prequequisites).<br>
-2. Build [DSS] (https://github.com/Andrew-Qibin/caffe_dss) [1] with cuDNN v5.1 for acceleration. Supposing the root directory of DSS is ``$DSS``.<br>
+2. Build [DSS](https://github.com/Andrew-Qibin/caffe_dss) [1] with cuDNN v5.1 for acceleration. Supposing the root directory of DSS is ``$DSS``.<br>
 ```
 USE_CUDNN := 1
 ```
