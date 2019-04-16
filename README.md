@@ -1,5 +1,5 @@
 # RAS
-This code is for the paper "Reverse Attention for Salient Object Detection".[pdf](http://openaccess.thecvf.com/content_ECCV_2018/papers/Shuhan_Chen_Reverse_Attention_for_ECCV_2018_paper.pdf)
+This code is for the paper "Reverse Attention for Salient Object Detection".[pdf](https://arxiv.org/pdf/1807.09940.pdf)
 
 ---
 
