@@ -13,6 +13,16 @@ Citation
   year={2018}
 } 
 ```
+```
+@article{chen2020tip, 
+  author={Chen, Shuhan and Tan, Xiuli and Wang, Ben and Lu, Huchuan and Hu, Xuelong and Fu, Yun}, 
+  journal={IEEE Transactions on Image Processing}, 
+  title={Reverse Attention Based Residual Network for Salient Object Detection},
+  volume={},  
+  pages={},
+  year={2020}
+} 
+```
 
 Installing
 ---
@@ -51,7 +61,8 @@ Note that this released model is newly trained and is slightly different from th
 
 Saliency Map
 ---
-The saliency maps on 7 datasets are available at [Baidu drive](https://pan.baidu.com/s/1fG-LO48CwZOeFIqH2Xvc2Q)(zin5) and [Google drive](https://drive.google.com/open?id=1OTgOYlZoTOFOIHwxEDBYkZbAS7L3UKcP).
+ECCV 2018: The saliency maps on 7 datasets are available at [Baidu drive](https://pan.baidu.com/s/1fG-LO48CwZOeFIqH2Xvc2Q)(zin5) and [Google drive](https://drive.google.com/open?id=1OTgOYlZoTOFOIHwxEDBYkZbAS7L3UKcP).
+TIP 2020: The saliency maps on 7 datasets are available at.
 
 Reference
 ---
