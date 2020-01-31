@@ -18,8 +18,8 @@ Citation
   author={Chen, Shuhan and Tan, Xiuli and Wang, Ben and Lu, Huchuan and Hu, Xuelong and Fu, Yun}, 
   journal={IEEE Transactions on Image Processing}, 
   title={Reverse Attention Based Residual Network for Salient Object Detection},
-  volume={},  
-  pages={},
+  volume={29},  
+  pages={3763-3776},
   year={2020}
 } 
 ```
