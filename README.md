@@ -62,7 +62,7 @@ Note that this released model is newly trained and is slightly different from th
 Saliency Map
 ---
 ECCV 2018: The saliency maps on 7 datasets are available at [Baidu drive](https://pan.baidu.com/s/1fG-LO48CwZOeFIqH2Xvc2Q)(zin5) and [Google drive](https://drive.google.com/open?id=1OTgOYlZoTOFOIHwxEDBYkZbAS7L3UKcP).<br>
-TIP 2020: The saliency maps on 7 datasets are available at [Google drive](https://drive.google.com/open?id=16FRhqXEhtWQ8dJh8TzaY-C182TdsAfFQ).<br>
+TIP 2020: The saliency maps on 6 datasets are available at [Google drive](https://drive.google.com/open?id=16FRhqXEhtWQ8dJh8TzaY-C182TdsAfFQ).<br>
 
 Reference
 ---
