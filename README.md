@@ -2,6 +2,9 @@
 This code is for the paper "Reverse Attention for Salient Object Detection".[pdf](https://arxiv.org/pdf/1807.09940.pdf)
 
 ---
+Pytorch Version
+---
+A PyTorch version is available at [here](https://github.com/ShuhanChen/RAS-pytorch).
 
 Citation
 ---
